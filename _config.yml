@@ -1,2 +1,4 @@
 theme: jekyll-theme-slate
 title: Danniell Sanchez-Palacios | Security Portfolio
+kramdown:
+  parse_block_html: true
