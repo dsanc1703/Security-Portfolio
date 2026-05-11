@@ -2,7 +2,7 @@
 
 <div style="max-width: 1100px; margin: 0 auto;">
 
-[← Back](<../../>)
+[← Back](<../>)
 
 # Root CA Server Maintenance
 

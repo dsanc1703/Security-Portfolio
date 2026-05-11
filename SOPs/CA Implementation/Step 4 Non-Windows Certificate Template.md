@@ -2,7 +2,7 @@
 
 <div style="max-width: 1100px; margin: 0 auto;">
 
-[← Back](<../../>)
+[← Back](<../>)
 
 [View PDF Version](<./PDF Step 4 Non-Windows Certificate Template.pdf>)
 

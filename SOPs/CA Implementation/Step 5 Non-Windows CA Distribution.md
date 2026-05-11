@@ -2,7 +2,7 @@
 
 <div style="max-width: 1100px; margin: 0 auto;">
 
-[← Back](<../../>)
+[← Back](<../>)
 
 [View PDF Version](<./PDF Step 5 Non-Windows CA Distribution.pdf>)
 
