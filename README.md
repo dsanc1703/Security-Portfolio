@@ -1,13 +1,9 @@
 <title>Danniell Sanchez | Security Portfolio</title>
 
-<div style="max-width: 1100px; margin: 0 auto; markdown="1">
+### [Change Managements — Infrastructure Modification Logs](<./Change-Management>)
 
-# [Change Managements - Logs for Infrastructure Modifications](<./Change-Management>)
+### [SOPs — Infrastructure & Security Guides](<./SOPs>)
 
-# [Standard Operation Procedures - Guides to Infrastructure and Security](<./SOPs>)
+### [RCAs — Failure Inspections & Resolutions](<./RCAs>)
 
-# [Root Cause Analyses - Inspections into Failures and Resolutions](<./RCAs>)
-
-# [Automation & Scripts - Custom Tools](<./Scripts>)
-
-</div>
+### [Automation — Custom Script Tools](<./Scripts>)
