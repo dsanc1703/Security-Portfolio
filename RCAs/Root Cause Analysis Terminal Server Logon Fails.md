@@ -1,3 +1,9 @@
+<title>Terminal Server RCA | Security Portfolio</title> 
+
+<div style="max-width: 1100px; margin: 0 auto;">
+
+[← Back](<../>)
+
 [View PDF Version](<./PDF Root Cause Analysis Terminal Server Logon Fails.pdf>)
 
 # Incident Description
@@ -238,3 +244,4 @@ With the whitelist of a FQDN, an attacker can try to leverage a service with SYS
 
 This issue has been bringing clusters of alerts whenever any user successfully authenticates into terminal server through RDP. With all this noise, it would be beneficial to mitigate the noise at the server-level rather than the SIEM-level
 
+</div>

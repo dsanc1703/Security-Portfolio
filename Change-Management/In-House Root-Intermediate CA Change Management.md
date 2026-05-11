@@ -1,3 +1,9 @@
+<title>PKI Change Management | Security Portfolio</title> 
+
+<div style="max-width: 1100px; margin: 0 auto;">
+
+[← Back](<../>)
+
 [View PDF Version](<./PDF In-House Root-Intermediate CA Change Management.pdf>)
 
 # Change Summary
@@ -74,3 +80,5 @@ Should any issue arise:
 - Remove implemnted CA certificates from the affected domain via GPO
 - Revert to previous Group Policy version
 - Force GPUpdate on impacted devices
+
+</div>
